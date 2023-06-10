@@ -1,3 +1,4 @@
+require "luarocks.loader"
 local utf8 = require('lua-utf8')
 local Loc = require('agda.loc')
 
